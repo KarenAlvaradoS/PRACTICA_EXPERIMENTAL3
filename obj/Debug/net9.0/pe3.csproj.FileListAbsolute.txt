@@ -12,3 +12,4 @@ C:\Users\EstefaniaAS\pe3\obj\Debug\net9.0\refint\pe3.dll
 C:\Users\EstefaniaAS\pe3\obj\Debug\net9.0\pe3.pdb
 C:\Users\EstefaniaAS\pe3\obj\Debug\net9.0\pe3.genruntimeconfig.cache
 C:\Users\EstefaniaAS\pe3\obj\Debug\net9.0\ref\pe3.dll
+C:\Users\EstefaniaAS\pe3\obj\Debug\net9.0\pe3.sourcelink.json
