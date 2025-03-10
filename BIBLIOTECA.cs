@@ -1,4 +1,4 @@
-﻿using System;                  // Las cláusulas using deben ir aquí
+﻿using System;                  
 using System.Collections.Generic;
 
 class Biblioteca
