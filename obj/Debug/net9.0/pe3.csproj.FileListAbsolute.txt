@@ -1,0 +1,14 @@
+C:\Users\EstefaniaAS\pe3\obj\Debug\net9.0\pe3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EstefaniaAS\pe3\obj\Debug\net9.0\pe3.AssemblyInfoInputs.cache
+C:\Users\EstefaniaAS\pe3\obj\Debug\net9.0\pe3.AssemblyInfo.cs
+C:\Users\EstefaniaAS\pe3\obj\Debug\net9.0\pe3.csproj.CoreCompileInputs.cache
+C:\Users\EstefaniaAS\pe3\bin\Debug\net9.0\pe3.exe
+C:\Users\EstefaniaAS\pe3\bin\Debug\net9.0\pe3.deps.json
+C:\Users\EstefaniaAS\pe3\bin\Debug\net9.0\pe3.runtimeconfig.json
+C:\Users\EstefaniaAS\pe3\bin\Debug\net9.0\pe3.dll
+C:\Users\EstefaniaAS\pe3\bin\Debug\net9.0\pe3.pdb
+C:\Users\EstefaniaAS\pe3\obj\Debug\net9.0\pe3.dll
+C:\Users\EstefaniaAS\pe3\obj\Debug\net9.0\refint\pe3.dll
+C:\Users\EstefaniaAS\pe3\obj\Debug\net9.0\pe3.pdb
+C:\Users\EstefaniaAS\pe3\obj\Debug\net9.0\pe3.genruntimeconfig.cache
+C:\Users\EstefaniaAS\pe3\obj\Debug\net9.0\ref\pe3.dll
